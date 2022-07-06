@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm an Italian guy, looking to improve himself everyday. I really enjoy developing desktop applications, but I also try to keep it up with websites and mobile applications. 
+
+Take some statistics:
 <!--Statistics-->
 <a href="https://github.com/nicolabaesso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolabaesso&theme=buefy&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolabaesso&theme=buefy&layout=compact&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolabaesso&theme=dark&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolabaesso&theme=dark&layout=compact&count_private=true" />
 </a>
